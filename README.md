@@ -1,3 +1,16 @@
+# RecordCollector
+
+I made a react website where you can enter your employment information (not the private stuff) and you will get data back in the form of a single json file.
+You can enter in information like your name, the company you work for, the career, and the salary. On the website, a preloaded dataset is shown for reference as a
+table. There is a Python file in there that will concatenate the json files into an excel file, filter that excel file to only get entries with 6 figures or up,
+and save that Excel file. The Python file also creates a combined json file from the filtered excel file, which I used to display static data on the site.
+
+This is one of my first times really using JavaScript and React.
+
+Technologies: Python, SQL, JavaScript, HTML, CSS, React.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
