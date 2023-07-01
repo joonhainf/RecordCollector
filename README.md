@@ -9,6 +9,7 @@ This is one of my first times really using JavaScript and React.
 
 Technologies: Python, SQL, JavaScript, HTML, CSS, React.
 
+![RecordCollector](https://github.com/joonhainf/RecordCollector/assets/28285099/1df88c1e-8135-4db1-96fe-423215602b6e)
 
 
 # Getting Started with Create React App
